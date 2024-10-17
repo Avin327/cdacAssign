@@ -24,6 +24,8 @@ public class add3numbers {
         // Display the result
         System.out.println("The sum of the smallest and largest numbers is: " + sum);
         
+
+        //gyuhuiohiji9
         scanner.close();
     }
 }
